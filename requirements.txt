@@ -1,0 +1,11 @@
+streamlit
+langchain
+openai
+faiss-cpu
+tiktoken
+python-dotenv
+transformers
+sentence-transformers
+pymupdf
+pdfplumber
+spacy
