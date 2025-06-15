@@ -23,11 +23,8 @@
 ## 🎥 Demo
 Watch a quick walkthrough of InsightBridge in action:
 
-<video src="https://github.com/vageeshadatta2000/InsightBridge/raw/main/assets/Insight-Demo.mp4" controls width="700">
-  Your browser does not support the video tag.
-</video>
 
-[▶️ Click here if the video doesn’t play](https://drive.google.com/file/d/1eddwljABSVLStG5t2bvodJNcJctpGEvJ/view?usp=sharing)
+[▶️ Click here to see the Demo](https://drive.google.com/file/d/1eddwljABSVLStG5t2bvodJNcJctpGEvJ/view?usp=sharing)
 
 
 ## 🧰 Tech Stack
