@@ -27,10 +27,10 @@ Watch a quick walkthrough of InsightBridge in action:
   Your browser does not support the video tag.
 </video>
 
-[▶️ Click here if the video doesn’t play](https://github.com/vageeshadatta2000/InsightBridge/raw/main/assets/Insight-Demo.mp4)
+[▶️ Click here if the video doesn’t play ([https://github.com/vageeshadatta2000/InsightBridge/edit/main/README.md#:~:text=Insight%2D-,Demo.mp4]
 
 
-
+Demo.mp4
 ## 🧰 Tech Stack
 
 | Layer         | Tools/Frameworks                                 |
