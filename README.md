@@ -24,7 +24,7 @@
 
 > 📽️ Watch the demo video below (hosted on GitHub):
 
-<video src="assets/Insight-Demo.mp4" controls width="700">
+<video src="https://github.com/vageeshadatta2000/InsightBridge/blob/main/README.md#:~:text=Insight%2D-,Demo.mp4" controls width="700">
   Demo Video
 </video>
 
