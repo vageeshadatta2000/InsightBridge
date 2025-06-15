@@ -20,6 +20,13 @@
 - Lawyers digesting contracts
 - Students summarizing complex readings
 
+## 🎥 Demo
+
+> 📽️ Watch the demo video below (hosted on GitHub):
+
+<video src="assets/Insight-Demo.mp4" controls width="700">
+  Demo Video
+</video>
 
 
 
