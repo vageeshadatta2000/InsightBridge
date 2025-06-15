@@ -21,12 +21,13 @@
 - Students summarizing complex readings
 
 ## 🎥 Demo
+Watch a quick walkthrough of InsightBridge in action:
 
-> 📽️ Watch the demo video below (hosted on GitHub):
-
-<video src="https://github.com/vageeshadatta2000/InsightBridge/blob/main/README.md#:~:text=Insight%2D-,Demo.mp4" controls width="700">
-  Demo Video
+<video src="https://github.com/vageeshadatta2000/InsightBridge/raw/main/assets/Insight-Demo.mp4" controls width="700">
+  Your browser does not support the video tag.
 </video>
+
+[▶️ Click here if the video doesn’t play](https://github.com/vageeshadatta2000/InsightBridge/raw/main/assets/Insight-Demo.mp4)
 
 
 
