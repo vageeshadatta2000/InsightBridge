@@ -27,7 +27,7 @@ Watch a quick walkthrough of InsightBridge in action:
   Your browser does not support the video tag.
 </video>
 
-[▶️ Click here if the video doesn’t play](https://github.com/vageeshadatta2000/InsightBridge/edit/main/README.md#:~:text=Insight%2D-,Demo.mp4)
+[▶️ Click here if the video doesn’t play](https://drive.google.com/file/d/1eddwljABSVLStG5t2bvodJNcJctpGEvJ/view?usp=sharing)
 
 
 ## 🧰 Tech Stack
