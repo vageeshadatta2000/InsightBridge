@@ -14,7 +14,7 @@ import tempfile
 
 # --- UI Configuration ---
 st.set_page_config(page_title="InsightBridge (Gemini Edition)", page_icon="💡")
-st.title("💡 InsightBridge: Gemini-Powered Document Analysis")
+st.title("💡 InsightBridge: LLM-Powered Document Analysis")
 st.write(
     "Upload a long-form document (PDF) and ask questions. "
     "InsightBridge will use a RAG pipeline with Google's Gemini to provide context-aware answers."
@@ -78,7 +78,7 @@ def setup_rag_chain(retriever):
     # --- MODIFICATION: Use Google's Chat Model (Gemini Pro) ---
     # `convert_system_message_to_human` is important for compatibility with some LangChain prompts.
     llm = ChatGoogleGenerativeAI(
-        model="gemini-pro", 
+        model="gemini-1.5-flash-latest", 
         temperature=0.7, 
         convert_system_message_to_human=True
     )
