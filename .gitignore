@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Secrets - VERY IMPORTANT
+.env
+
+# Streamlit config
+.streamlit/
