@@ -1,21 +1,22 @@
 # Core application framework
 streamlit==1.34.0
 
-# LangChain Framework & Integrations
-# Pinning versions ensures reproducible builds and avoids breaking changes
+# --- Google Gemini Dependencies (Active) ---
+langchain-google-genai==1.0.2
+google-generativeai==0.5.2
+
+# --- OpenAI Dependencies (Inactive, kept for easy switching) ---
+# langchain-openai==0.1.7
+# openai==1.28.1
+
+# LangChain Core (used by both)
 langchain==0.1.20
 langchain-core==0.1.52
 langchain-community==0.0.38
-langchain-openai==0.1.7
 
-# OpenAI's Python client library
-openai==1.28.1
-
-# Vector store for similarity search (CPU version for broad compatibility)
+# Vector store and PDF processing
 faiss-cpu==1.8.0
-
-# Library for reading and extracting text from PDF files
 pypdf==4.2.0
 
-# Used to load environment variables from a .env file for local development
+# Used for local development
 python-dotenv==1.0.1
