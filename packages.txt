@@ -1,1 +1,3 @@
 swig
+libomp-dev
+build-essential
