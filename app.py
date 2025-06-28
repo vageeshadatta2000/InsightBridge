@@ -17,7 +17,7 @@ st.set_page_config(page_title="InsightBridge (Gemini Edition)", page_icon="💡"
 st.title("💡 InsightBridge: LLM-Powered Document Analysis")
 st.write(
     "Upload a long-form document (PDF) and ask questions. "
-    "InsightBridge will use a RAG pipeline with Google's Gemini to provide context-aware answers."
+    "InsightBridge will use a RAG pipeline to provide context-aware answers."
 )
 
 # --- MODIFICATION: API Key Management for Google Gemini ---
